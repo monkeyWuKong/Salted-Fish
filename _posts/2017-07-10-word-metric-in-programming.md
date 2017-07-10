@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "word "metric" in programming"
+title: "word metric in programming"
 comments: false
 description: "notes"
 keywords: "programming notes"
 ---
 
 
-> **metric** : 
+
+## **metric** : 
 
 > **a system of related measures** that facilitates the quantification of some particular characteristic
